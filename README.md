@@ -1,6 +1,16 @@
 # Coinkite's Bitcoin Pay Button
 Vector Artwork for Payment Processing (Buy / Pay / Donate Buttons)
 
+## What is a Pay Button?
+
+Coinkite now makes it simple and easy to accept funds for goods and services.
+
+For your site's visitors, these means giving them a nice big fat "Buy Now" button and encouraging them to press it.
+
+What happens next can all be done by Coinkite. We can collect the essential data you need for the transaction (an email, bitcoin refund address, and short customer message) and collect the Bitcoin. The customers will see a real time invoice, QR image and have the option of easily paying from their Coinkite balance if they are one of our users. Of course any Bitcoin wallet can be used to pay.
+
+And let us handle the exchange rate calculations, so you can price your goods in traditional fiat amounts instead of volatile crypto-currencies.
+
 
 ![](https://raw.githubusercontent.com/coinkite/bitcoin-pay-button/master/coinkite-pay-button.sketch/QuickLook/Preview.png)
 
